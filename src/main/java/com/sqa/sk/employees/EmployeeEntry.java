@@ -5,7 +5,7 @@
  * Instructor<br>
  * Created: Nov 23, 2015
  */
-package com.sqa.jf.employees;
+package com.sqa.sk.employees;
 
 import java.util.Scanner;
 
@@ -25,6 +25,8 @@ public class EmployeeEntry {
 	private static String[] addresses;
 
 	private static String[] ages;
+
+	private static List<Employee> employees;
 
 	private static String[] jobTitles;
 

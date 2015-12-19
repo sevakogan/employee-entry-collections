@@ -5,7 +5,7 @@
  * Instructor<br>
  * Created: Nov 30, 2015
  */
-package com.sqa.jf.employees;
+package com.sqa.sk.employees;
 
 /**
  * Employee //ADDD (description of class)
