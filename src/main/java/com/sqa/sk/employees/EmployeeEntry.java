@@ -26,8 +26,6 @@ public class EmployeeEntry {
 
 	private static String[] ages;
 
-	private static List<Employee> employees;
-
 	private static String[] jobTitles;
 
 	private static String[] names;
